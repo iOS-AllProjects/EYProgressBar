@@ -19,7 +19,7 @@ Install
 
 ##### Manual
 
-Copy & paste `CustomProgressBar.swift` in your project
+Copy & paste `CustomProgressBar.swift` and `Extensions.swift` in your project
 Create your own xib file and link the outlets 
 
 ##### CocoaPods 
@@ -102,7 +102,7 @@ Slider Maximum Value
 
 ``` swift
     //Example
-    tracker.sliderTextField = "\(120)"
+    tracker.sliderTextField = "\(tracker.value)"
 
 ```
 
