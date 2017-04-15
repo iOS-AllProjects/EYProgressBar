@@ -6,7 +6,9 @@ Fully customisable, comes in different styles!
 
 Screenshots
 ----
-https://cloud.githubusercontent.com/assets/8807768/25064344/c947d3ea-21f8-11e7-8c36-2aaee39bdd24.png https://cloud.githubusercontent.com/assets/8807768/25064345/c95ee8dc-21f8-11e7-883e-114fc678f9d3.png https://cloud.githubusercontent.com/assets/8807768/25064346/c9693846-21f8-11e7-9fee-2d2ae45afcdc.png
+![simulator screen shot apr 15 2017 3 52 52 pm](https://cloud.githubusercontent.com/assets/8807768/25064344/c947d3ea-21f8-11e7-8c36-2aaee39bdd24.png) 
+![simulator screen shot apr 15 2017 3 54 20 pm](https://cloud.githubusercontent.com/assets/8807768/25064345/c95ee8dc-21f8-11e7-883e-114fc678f9d3.png) 
+![simulator screen shot apr 15 2017 3 54 56 pm](https://cloud.githubusercontent.com/assets/8807768/25064346/c9693846-21f8-11e7-9fee-2d2ae45afcdc.png)
 
 Install
 -------
