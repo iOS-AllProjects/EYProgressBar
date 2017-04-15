@@ -66,6 +66,11 @@ Drag a `UIView` into your storyboard! Change the class to `CustomProgressBar`. T
    //The first number specifies dash length
    //The second number specifies space length between dashes 
 ```
+### Edit Animation Duration!
+
+``` swift
+    strokeAnimation.duration = 2
+```
 ### In storyboard Edit the following properties! 
 
 ##### For the UIView
