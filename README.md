@@ -73,6 +73,7 @@ Background Color.
 Image.
 Title. 
 Value.
+Minimum Font size.
 
 ##### For both Layers
 LayerWidth
