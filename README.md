@@ -6,8 +6,7 @@ Fully customisable, comes in different styles!
 
 Screenshots
 ----
-<a href="https://imgflip.com/gif/1lyqkg"><img src="https://i.imgflip.com/1lyqkg.gif" title="made at imgflip.com"/></a>
-<a href="https://imgflip.com/gif/1m0zyp"><img src="https://i.imgflip.com/1m0zyp.gif" title="made at imgflip.com"/></a>
+https://cloud.githubusercontent.com/assets/8807768/25064344/c947d3ea-21f8-11e7-8c36-2aaee39bdd24.png https://cloud.githubusercontent.com/assets/8807768/25064345/c95ee8dc-21f8-11e7-883e-114fc678f9d3.png https://cloud.githubusercontent.com/assets/8807768/25064346/c9693846-21f8-11e7-9fee-2d2ae45afcdc.png
 
 Install
 -------
